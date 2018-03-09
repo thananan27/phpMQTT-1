@@ -1,5 +1,5 @@
 <?php
-require("vendor/autoload.php");
+//require("vendor/autoload.php");
 use \LINE\LINEBot\HTTPClient\CurlHTTPClient;
 use \LINE\LINEBot;
 require("phpMQTT.php");
